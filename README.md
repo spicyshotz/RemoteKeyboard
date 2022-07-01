@@ -7,7 +7,8 @@
 ## Usage
 
 ℹ️ Find the local IP address of the host PC and enter it in the IP field in Client.py
-Run Host.py first and only then run Client.py.
+Run Host.py first and only then run Client.py.  
+![Screenshot](https://i.imgur.com/lgvaWu9.png)
 
 
 ## Known Issues
