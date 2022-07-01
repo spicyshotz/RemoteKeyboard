@@ -15,6 +15,7 @@ Run Host.py first and only then run Client.py.
 🔴 Right shift doesnt work.  
 🔴 Struggles to send or receive too frequent consecutive inputs (such as holding down a key)  
 🔴 Key combos dont work (such as ctrl+c, shift+alt etc.)😔  
+🔴 Tried using it in a game (Age of empires 4) and that doesnt work. :/
 
 
 ## TODO
